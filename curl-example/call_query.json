@@ -1,0 +1,1 @@
+{"method": "broadcast_tx_commit", "params": ["abcd"] , "jsonrpc": "2.0"}

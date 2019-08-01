@@ -1,0 +1,1 @@
+{"method": "broadcast_tx_sync", "jsonrpc": "2.0", "params": {"name": "satoshi"}, "id": "dontcare"}

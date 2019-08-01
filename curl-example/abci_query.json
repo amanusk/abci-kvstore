@@ -1,0 +1,1 @@
+{"method": "abci_query", "params": ["abcd", "abcd", "0"] , "jsonrpc": "2.0"}

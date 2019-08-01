@@ -1,0 +1,15 @@
+[package]
+name = "tendermint-rs-example"
+version = "0.1.0"
+authors = ["amanusk <amanusk@protonmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+better-panic = "0.1.2"
+
+[dependencies.tendermint]
+version = "0.10.0"
+path="/home/amanusk/rust/tendermint/kms/tendermint-rs"
+features = ["rpc"]
